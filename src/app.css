@@ -39,7 +39,7 @@ svg {
 
 /*? Using local font-family */
 body {
-	@apply font-lexendDeca text-transparentWhite;
+	@apply font-lexendDeca text-transparentWhite bg-veryLightGray;
 }
 /*?---------------- */
 
