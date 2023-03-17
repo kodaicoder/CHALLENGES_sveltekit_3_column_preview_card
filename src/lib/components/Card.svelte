@@ -14,9 +14,9 @@
 
 <div class="grid p-10 gap-10 {`${colorVariants[color]}`}">
 	<img src={carImgSrc} alt={title} />
-	<p class=" font-bigShouldersDisplay font-bold text-4xl text-veryLightGray">
+	<h1 class=" font-bigShouldersDisplay font-bold text-4xl text-veryLightGray">
 		{title.toUpperCase()}
-	</p>
+	</h1>
 	<p class="font-light text-base">{paragraph}</p>
 	<button
 		class="bg-veryLightGray py-2 w-2/3 mt-10 rounded-full border-2 text-black mix-blend-screen transition-all duration-200
