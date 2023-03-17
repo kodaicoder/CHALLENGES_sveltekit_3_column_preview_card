@@ -8,11 +8,11 @@
     <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-     <a href="https://challenges-sveltekit-results-summary.vercel.app/">View Demo</a>
+     <a href="https://challenges-sveltekit-3-column-preview-card.vercel.app/">View Demo</a>
     <strong>·</strong>
-    <a href="https://github.com/kodaicoder/CHALLENGES_sveltekit_results-summary/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/kodaicoder/CHALLENGES_sveltekit_3_column_preview_card/issues" target="_blank">Report Bug</a>
       <strong>·</strong>
-    <a href="https://github.com/kodaicoder/CHALLENGES_sveltekit_results-summary/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/kodaicoder/CHALLENGES_sveltekit_3_column_preview_card/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -44,9 +44,9 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 <h2 align="left">Links</h2>
 
-- Solution URL : [3-column preview card component (Sveltekit + Tailwind CSS)](https://www.frontendmentor.io/solutions/-result-summary-component-build-with-sveltekit-and-tailwindcss-x_6ep6SMI0)
+- Solution URL : [3-column preview card component (Sveltekit + Tailwind CSS)](https://www.frontendmentor.io/solutions/-3-column-preview-card-component-solution-build-with-sveltekit-YuF7-jiwzC)
 
-- Live Site URL : [https://challenges-sveltekit-results-summary.vercel.app/](https://challenges-sveltekit-results-summary.vercel.app/)
+- Live Site URL : [https://challenges-sveltekit-3-column-preview-card.vercel.app/](https://challenges-sveltekit-3-column-preview-card.vercel.app/)
 
 <br>
 
