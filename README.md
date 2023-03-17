@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" width="80">
 
-  <h2 align="center">🎉 3 Column preview card component solution 🎉 <br/><small>build with <img src="https://skillicons.dev/icons?i=svelte" width="20"> Sveltekit & <img src="https://skillicons.dev/icons?i=tailwind" width="20">Tailwindcss </small></h2>
+  <h2 align="center">🎉 3 Column preview card component solution 🎉 <br/><small>build with <img src="https://skillicons.dev/icons?i=svelte" width="20"> Sveltekit & <img src="https://skillicons.dev/icons?i=tailwind" width="20"> Tailwindcss </small></h2>
   <p align="center">
     <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/"><strong>Frontend Mentor Challenge</strong></a>
     <br />
